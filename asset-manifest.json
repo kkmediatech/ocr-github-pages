@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/ocr-github-pages/static/css/main.f855e6bc.css",
-    "main.js": "/ocr-github-pages/static/js/main.6b2fdaf4.js",
+    "main.css": "/ocr-github-pages/static/css/main.e6c13ad2.css",
+    "main.js": "/ocr-github-pages/static/js/main.3c4fb5b4.js",
     "static/js/453.bdd455e3.chunk.js": "/ocr-github-pages/static/js/453.bdd455e3.chunk.js",
-    "static/media/logo.svg": "/ocr-github-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/ocr-github-pages/index.html",
-    "main.f855e6bc.css.map": "/ocr-github-pages/static/css/main.f855e6bc.css.map",
-    "main.6b2fdaf4.js.map": "/ocr-github-pages/static/js/main.6b2fdaf4.js.map",
+    "main.e6c13ad2.css.map": "/ocr-github-pages/static/css/main.e6c13ad2.css.map",
+    "main.3c4fb5b4.js.map": "/ocr-github-pages/static/js/main.3c4fb5b4.js.map",
     "453.bdd455e3.chunk.js.map": "/ocr-github-pages/static/js/453.bdd455e3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.6b2fdaf4.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3c4fb5b4.js"
   ]
 }
