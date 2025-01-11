@@ -11,6 +11,11 @@ const FileList = () => {
 
   useEffect(() => {
     // ดึงข้อมูลจาก API
+    const axiosInstance = axios.create({
+      baseURL: apiUrl,
+      headers: { 'Content-Type': 'application/json' }
+    });
+    
     const fetchFiles = async () => {
       try {
         const response = await axios.get(apiUrl);
